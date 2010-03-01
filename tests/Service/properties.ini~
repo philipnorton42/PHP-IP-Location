@@ -1,0 +1,6 @@
+; Config file to store some DB params
+
+location = "localhost"
+user = "root"
+password = "QWEqwe123"
+database = "test"
